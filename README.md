@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="FONDO_NUBES.png" width="100%"/>
+<img src="banner.png" width="100%"/>
 
 # ☁️💗 Maryorie Nieves  
 ### Ingeniera de Software  
