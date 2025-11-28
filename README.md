@@ -98,7 +98,7 @@ Proyecto narrativo ilustrado psicológico tipo webcómic.
 ## 💌 Contacto
 
 - GitHub: https://github.com/Keiiiyez
-
+- Correo: maryorienieves79@gmail.com
 ---
 
 <div align="center">
