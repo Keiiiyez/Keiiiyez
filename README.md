@@ -27,7 +27,7 @@ Me gusta trabajar tanto frontend como backend y explorar inteligencia artificial
 <div align="center">
 
 ### 💻 Lenguajes
-![HTML](https://img.shields.io/badge/HTML5-rosa-pink)
+![HTML](https://img.shields.io/badge/HTML5-pink)
 ![CSS](https://img.shields.io/badge/CSS3-pink)
 ![JavaScript](https://img.shields.io/badge/JavaScript-pink)
 ![TypeScript](https://img.shields.io/badge/TypeScript-pink)
